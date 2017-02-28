@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjaxWebDriver", "AjaxWebDriver\AjaxWebDriver.csproj", "{28DA9C28-766D-4D7C-8BCD-163A8A5A8F86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "C_Sharp_Sandbox\Factorial.csproj", "{2318FDDB-9683-46D6-A771-E2181CEE9440}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{28DA9C28-766D-4D7C-8BCD-163A8A5A8F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28DA9C28-766D-4D7C-8BCD-163A8A5A8F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28DA9C28-766D-4D7C-8BCD-163A8A5A8F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2318FDDB-9683-46D6-A771-E2181CEE9440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2318FDDB-9683-46D6-A771-E2181CEE9440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2318FDDB-9683-46D6-A771-E2181CEE9440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2318FDDB-9683-46D6-A771-E2181CEE9440}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
