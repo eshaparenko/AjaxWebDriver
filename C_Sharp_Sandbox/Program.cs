@@ -21,4 +21,5 @@ namespace Factorial
                 return number * Factorial(number - 1);
         }
     }
+
 }
